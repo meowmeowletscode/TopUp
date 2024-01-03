@@ -10,12 +10,12 @@ public class Connection {
     @SuppressLint("NewApi")
     public java.sql.Connection SQLConnection() {
         java.sql.Connection conn;
-        String serverName = "DESKTOP-R4FGAIN";
+        String serverName = "DESKTOP-xxxxx";
         String port = "1433";
         String databaseName = "TopUp";
         String instanceName = "MSSQL2014";
-        String userName = "admin";
-        String password = "adminP@55w0rd";
+        String userName = "your_user_name";
+        String password = "your_password";
 
         StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
         StrictMode.setThreadPolicy(policy);
