@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25625" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/drawable/background_use.xml" value="0.2703125" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/drawable/bordered_textview.xml" value="1.621875" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/drawable/button_background.xml" value="1.621875" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/drawable/button_rm100.xml" value="1.621875" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/drawable/button_rm50.xml" value="1.621875" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/drawable/ic_launcher_background.xml" value="0.25625" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/layout/activity_main.xml" value="0.72" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/layout/jesus.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/layout/lamb.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/layout/login.xml" value="1.0" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/menu/menu.xml" value="1.0166666666666666" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/HelloWorld/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2703125" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="1.621875" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/drawable/bordered_textview.xml" value="1.621875" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/drawable/ic_launcher_background.xml" value="1.621875" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/activity_main.xml" value="1.2" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/create_member.xml" value="1.525" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/createmember.xml" value="1.6" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/login.xml" value="1.525" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/member_detail.xml" value="1.525" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/newmember.xml" value="1.525" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/newmember_confirm.xml" value="1.525" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/newmember_detail.xml" value="0.7556818181818182" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/layout/newuser.xml" value="1.525" />
+        <entry key="..\:/Users/mwkoo/AndroidStudioProjects/TopUp/app/src/main/res/menu/menu.xml" value="1.525" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
